@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="LCenter/LCenter.csproj" />
+  <Project Path="LCenterBLL/LCenterBLL.csproj" />
+  <Project Path="LCenterDAL/LCenterDAL.csproj" />
+</Solution>
